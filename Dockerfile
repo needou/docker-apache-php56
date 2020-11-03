@@ -11,6 +11,9 @@ RUN apt-get update && \
       php5-cli \
       libapache2-mod-php5 \
       php5-gd \
+      libcurl3 \
+      libcurl3-dev \
+      php5-curl \
       php5-json \
       php5-ldap \
       php5-mysql \
